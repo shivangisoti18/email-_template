@@ -1,0 +1,52 @@
+<mjml>
+  <mj-head>
+        <mj-style>
+           @import "https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css"; 
+         
+        </mj-style>
+    </mj-head>
+  <mj-body background-color="#f0f0f0">
+    <mj-section padding-bottom="0px"  >
+    <mj-column padding-left="220px" padding-top="80px"  style="line-height=18px;">
+       <mj-image src="https://images.squarespace-cdn.com/content/v1/6293f81bb7bbaa222e923043/4f5b2d6c-bee7-4ab3-8164-b5c458c6d389/Final-01.png?format=1500w" alt="satschel logo" width="130px"  align="left" padding="0"></mj-image>
+    </mj-column>
+      </mj-section>
+    
+    <mj-section padding-top="48px" padding-bottom="0">
+      <mj-column background-color="#ffffff" padding="24px" border-radius="8px">
+       
+        <mj-text font-size="16px" color="#000" font-family="helvetica" font-weight="bold" line-height="24px" padding="24px 0 4px 0">Hi John Doe,</mj-text>
+        <mj-text font-size="16px" color="#5c5c5c" font-family="helvetica" font-weight="regular" line-height="24px" padding="4px 0 24px 0">
+        You successfully completed your onboarding and we are doing our best to process your 	             application. We will require 2-3 days to validate all the information and will notify you           once its done.
+        </mj-text>
+        <mj-text font-size="16px" align="left" font-family="helvetica" color= "#5D657A" padding-left="0" > Verification Status
+        <mj-text  > 
+          <mj-text pdding="0px" style="padding-left:20px;font-size:11px;color:#33B87A"><i class="ri-checkbox-blank-fill"></i></mj-text> In Progress</mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+      <mj-text>
+          <mj-section style="display: flex;gap: 4px;width: 100%;justify-content: center;">
+      <mj-section style="width:40px;height:40px;color:blue;background:rgba(0, 0, 0, 0.06);border-radius:50%" >
+        <a style="display: grid;place-items: center;height: 100%;width: 100%;text-decoration: none;color: #878C99; font-size:20px;font-weight:bold" href="#"><i class="ri-linkedin-line"></i></a> 
+      </mj-section>
+            
+            
+         <mj-section style="width:40px;height:40px;color:blue;background:rgba(0, 0, 0, 0.06);border-radius:50% ;padding-left:" >
+        <a style="display: grid;place-items: center;height: 100%;width: 100%;text-decoration: none;color: #878C99; font-size:20px;font-weight:bold" href="#"><i class="ri-twitter-fill"></i></a> 
+      </mj-section>
+      
+      </mj-section>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section padding-bottom="48px">
+      <mj-column padding="0">
+        <mj-text color="#5C5C5C" font-size="11px" align="center" vertical-align="middle" font-size="10px" padding-bottom="1px">©2022 Satschel Inc. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+ 
+  </mj-body>
+</mjml> 
